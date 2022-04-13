@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6ae0061d-1231-4696-bd17-19ae246c4b75}">
+		<property name="assetPath">
+			<value>seminar sounds_bal 1-Vital.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.486530612244898</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{870fb282-84c4-476d-b62d-87473065bcf5}</destination>
+		</relationship>
+	</object>
+</objects>
